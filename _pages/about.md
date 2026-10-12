@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I currently work at Amazon as a Software Development Engineer. I graduated from [University of Pennsylvania](https://www.cis.upenn.edu/) with a Master's degree in Computer and Information Science in May 2023. During my time here, I got an opportunity to work with [Prof. Lyle Ungar](https://www.cis.upenn.edu/~ungar/), [Prof. Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) and [Prof. Lara Martin](https://laramartin.net/). My research interests lie in the intersection of Natural Language Processing and Computational Social Science with a flavor of Psychology. I am also interested in AI for social good and AI safety.
+I am a Software Engineer at Meta, where I work on building scalable and reliable infrastructure. Previously, I worked at Amazon, gaining experience in cloud infrastructure and distributed systems.
 
-Previously, I had an opportunity to collaborate with [Prof. Raghavan Komondoor](https://www.csa.iisc.ac.in/~raghavan/) and [Dr. Raveendra Kumar Medicherla](https://scholar.google.co.in/citations?user=S9gOtwkAAAAJ&hl=en) from [Indian Institute of Science](https://iisc.ac.in/). Prior to this, I pursued my Bachelor’s in Technology (B.Tech) in Computer Science and Engineering at  [PES University](https://cs.pes.edu/) and graduated in 2019.
+I graduated from the [University of Pennsylvania](https://www.cis.upenn.edu/) with a Master’s degree in Computer and Information Science in May 2023. During my time there, I had the opportunity to work with [Prof. Lyle Ungar](https://www.cis.upenn.edu/~ungar/), [Prof. Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/), and [Prof. Lara Martin](https://laramartin.net/). My academic interests centered on Natural Language Processing and Computational Social Science, particularly at the intersection of language, human behavior, and psychology. I am also interested in AI safety and building AI systems that are reliable, transparent, and beneficial to society.
+
+Previously, I collaborated with [Prof. Raghavan Komondoor](https://www.csa.iisc.ac.in/~raghavan/) and [Dr. Raveendra Kumar Medicherla](https://scholar.google.co.in/citations?user=S9gOtwkAAAAJ&hl=en) at the [Indian Institute of Science](https://iisc.ac.in/). I received my Bachelor of Technology (B.Tech.) in Computer Science and Engineering from [PES University](https://cs.pes.edu/).
+
